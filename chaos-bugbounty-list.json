@@ -5643,5 +5643,56 @@
 				"lazada-seller.cn"
 			]
 		}
+		
+		{
+			"name": "lululemon",
+			"url": "https://bugcrowd.com/lululemon",
+			"bounty": true,
+			"domains": [
+				"lululemon.co.uk"
+			]
+		},
+
+		
+		{
+			"name": "Electroneum",
+			"url": "https://bugcrowd.com/electroneum",
+			"bounty": true,
+			"domains": [
+				"electroneum.com"
+				"anytask.com"
+			]
+		},
+		{
+			"name": "Whatfix",
+			"url": "https://bugcrowd.com/whatfix",
+			"bounty": true,
+			"domains": [
+				"whatfix.com"
+			]
+		},
+		{
+			"name": "Whatfix",
+			"url": "https://bugcrowd.com/whatfix",
+			"bounty": true,
+			"domains": [
+				"whatfix.com"
+			]
+		},
+		{
+			"name": "Webdotcom",
+			"url": "https://bugcrowd.com/webdotcom",
+			"bounty": true,
+			"domains": [
+				"web.com"
+				"register.com"
+				"networksolutions.com"
+				"uk.web.com"
+				
+			]
+		},
+		
+		
+		
 	]
 }
